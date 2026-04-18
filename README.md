@@ -16,7 +16,6 @@ cd DaProfiler
 pip install -r requirements.txt
 ```
 
-## Demo
 
 
 ## Contributions
